@@ -6,9 +6,6 @@ The hands-on exercises of each week are uploaded under different folders named a
 
 Each week's folder contains the code files and their respective output images.
 
-Week-1 :  Implementing the Singleton Pattern
-          Implementing the Factory Method Pattern
-          E-commerce Platform Search Function
-          Financial Forecasting
+Week-1 :  Implementing the Singleton Pattern, Implementing the Factory Method Pattern, E-commerce Platform Search Function, Financial Forecasting.
 
 Week-2 : (to be continued...)
