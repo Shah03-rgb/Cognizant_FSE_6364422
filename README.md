@@ -10,6 +10,12 @@ Week-1 :  Implementing the Singleton Pattern, Implementing the Factory Method Pa
 
 Week-2 : Ranking & Window Functions in SQL, Creating a Stored Procedure in SQL, Returning Data from a Stored Procedure in SQL, Running NUnit Test Cases for Calculator, Writing a Testable Code with Moq.
 
-Week-3 : (To be continued...)
+Week-3 : Understanding ORM with a Retail Inventory System, Setting up Database Context, Using EF Core CLI to Create and Apply Migration, Inserting initial Data into Database, 
+Retrieving Data from Database.
+
+Week-4 : (To be continued...)
+
+
+
 
 
