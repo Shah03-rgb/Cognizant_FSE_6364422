@@ -1,0 +1,3 @@
+-> Inserted the given data included in the code into the Program.cs file
+-> Verified the insertion of data correctly into the database using SQL Server Management Studio (SSMS)
+-> EF_Core_Lab-4.docx contains the proof screenshots of the insertion of data into the database
