@@ -13,7 +13,12 @@ Week-2 : Ranking & Window Functions in SQL, Creating a Stored Procedure in SQL, 
 Week-3 : Understanding ORM with a Retail Inventory System, Setting up Database Context, Using EF Core CLI to Create and Apply Migration, Inserting initial Data into Database, 
 Retrieving Data from Database.
 
-Week-4 : (To be continued...)
+Week-4 : Created a .NET Core Web API, implemented CRUD operations, configured CORS, added JWT-based authentication, and explored REST concepts & HTTP methods.
+
+Week-5 : (To be continued...)
+
+
+
 
 
 
