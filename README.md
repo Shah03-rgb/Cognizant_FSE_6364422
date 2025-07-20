@@ -15,7 +15,12 @@ Retrieving Data from Database.
 
 Week-4 : Created a .NET Core Web API, implemented CRUD operations, configured CORS, added JWT-based authentication, and explored REST concepts & HTTP methods.
 
-Week-5 : (To be continued...)
+Week-5 : Kafka integration with C#, Implementing JWT Authentication in ASP.NET Core Web API
+
+Week-6 : (To be continued....)
+
+
+
 
 
 
