@@ -1,0 +1,4 @@
+-> Answered questions about ORM and EF Core 8.0
+-> Created a .NET Console App
+-> Installed EF Core Packages
+-> EF_Core_Lab-1.docx contains the answers to the given questions about ORM and EF Core 8.0
