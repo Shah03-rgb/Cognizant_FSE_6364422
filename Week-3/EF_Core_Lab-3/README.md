@@ -1,0 +1,5 @@
+-> Created EF Core CLI
+-> Created Initial Migration
+-> Applied Migration to Create Database
+-> Verified the creation of Tables Products & Categories in the SQL Server Management Studio (SSMS)
+-> EF_Core_Lab-3.docx contains the proof screenshot of the creation of the aforementioned tables
