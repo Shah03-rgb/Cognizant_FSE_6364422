@@ -1,0 +1,2 @@
+-> Updated the code of Program.cs file in order to retrieve data of products using Find, FirstOrDefault, and ToListAsync to retrieve data
+-> EF_Core_Lab-5.docx contains the proof screenshot of the output of the product details obtained through the retrieval methods
