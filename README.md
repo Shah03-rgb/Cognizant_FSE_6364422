@@ -18,5 +18,7 @@ Week-5 : Kafka integration with C#, Implementing JWT Authentication in ASP.NET C
 
 Week-6 : myfirstreact, studentapp, scorecalculatorapp, blogapp, cohorttracker
 
-Week-7 : (To be continued....)
+Week-7 : ticketboakingapp, officespacerentalapp, eventexamplesapp, cricketapp, bloggerapp
+
+Week-8 : (To be continued....)
 
