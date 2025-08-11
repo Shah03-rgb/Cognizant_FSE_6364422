@@ -20,5 +20,5 @@ Week-6 : myfirstreact, studentapp, scorecalculatorapp, blogapp, cohorttracker
 
 Week-7 : ticketboakingapp, officespacerentalapp, eventexamplesapp, cricketapp, bloggerapp
 
-Week-8 : (To be continued....)
+Week-8 : Git setup, git ignore, Branching & Merging, Conflict Resolution, Clean-up & Push-back
 
