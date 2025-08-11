@@ -1,6 +1,6 @@
 # Assignment 3: Branching and Merging
 
-# Objectives Completed
+## Objectives Completed
 - Created branch "GitNewBranch"
 - Listed local and remote branches
 - Switched between branches
@@ -10,7 +10,7 @@
 - Visualized commit history
 - Deleted merged branch
 
-# Branch Workflow
+## Branch Workflow
 1. Created GitNewBranch
 2. Added branch_file.txt and feature.txt
 3. Modified welcome.txt
@@ -19,7 +19,7 @@
 6. Merged GitNewBranch
 7. Deleted GitNewBranch
 
-# Commands used
+## Commands used
 - git branch GitNewBranch
 - git checkout GitNewBranch
 - git merge GitNewBranch
