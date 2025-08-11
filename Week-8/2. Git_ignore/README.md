@@ -6,4 +6,4 @@
 - Verified Git ignores specified files
 - Tested with additional .log files
 
-## .gitignore Rules are Applied
+ .gitignore Rules are Applied
